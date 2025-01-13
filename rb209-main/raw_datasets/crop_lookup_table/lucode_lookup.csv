@@ -1,0 +1,82 @@
+﻿Land Cover Description,LUCODE,Land Use Description
+Cereal Crops,AC01,Spring Barley
+Cereal Crops,AC03,Beet
+Cereal Crops,AC04,Borage
+Cereal Crops,AC05,Buckwheat
+Cereal Crops,AC06,Canary Seed
+Cereal Crops,AC07,Carrot
+Cereal Crops,AC09,Chicory
+Cereal Crops,AC10,Daffodil
+Cereal Crops,AC14,Hemp
+Cereal Crops,AC15,Lettuce
+Cereal Crops,AC16,Spring Linseed
+Cereal Crops,AC17,Maize
+Cereal Crops,AC18,Millet
+Cereal Crops,AC19,Spring Oats
+Cereal Crops,AC20,Onions
+Cereal Crops,AC22,Parsley
+Cereal Crops,AC23,Parsnips
+Cereal Crops,AC24,Spring Rye
+Cereal Crops,AC26,Spinach
+Cereal Crops,AC27,Strawberry
+Cereal Crops,AC30,Spring Triticale
+Cereal Crops,AC32,Spring Wheat
+Cereal Crops,AC34,Spring Cabbage
+Cereal Crops,AC35,Turnip
+Cereal Crops,AC36,Spring Oilseed
+Cereal Crops,AC37,Brown Mustard
+Cereal Crops,AC38,Mustard
+Cereal Crops,AC41,Radish
+Cereal Crops,AC44,Potato
+Cereal Crops,AC45,Tomato
+Cereal Crops,AC50,Squash
+Cereal Crops,AC52,Siam Pumpkin
+Cereal Crops,AC58,Mixed Crop-Group 1
+Cereal Crops,AC59,Mixed Crop-Group 2
+Cereal Crops,AC60,Mixed Crop-Group 3
+Cereal Crops,AC61,Mixed Crop-Group 4
+Cereal Crops,AC62,Mixed Crop-Group 5
+Cereal Crops,AC63,Winter Barley
+Cereal Crops,AC64,Winter Linseed
+Cereal Crops,AC65,Winter Oats
+Cereal Crops,AC66,Winter Wheat
+Cereal Crops,AC67,Winter Oilseed
+Cereal Crops,AC68,Winter Rye
+Cereal Crops,AC69,Winter Triticale
+Cereal Crops,AC70,Winter Cabbage
+Cereal Crops,AC71,Coriander
+Cereal Crops,AC72,Corn gromwell
+Cereal Crops,AC74,Phacelia
+Cereal Crops,AC81,Poppy
+Cereal Crops,AC88,Sunflower
+Cereal Crops,AC90,Gladioli
+Cereal Crops,AC92,Sorghum
+Cereal Crops,AC94,Sweet William
+Cereal Crops,AC100,Italian Ryegrass
+Cereal Crops,CA02,Cover Crop
+Leguminous Crops,LG01,Chickpea
+Leguminous Crops,LG02,Fenugreek
+Leguminous Crops,LG03,Spring Field beans
+Leguminous Crops,LG04,Green Beans
+Leguminous Crops,LG06,Lupins
+Leguminous Crops,LG07,Spring Peas
+Leguminous Crops,LG09,Cowpea
+Leguminous Crops,LG08,Soya
+Leguminous Crops,LG11,Lucerne
+Leguminous Crops,LG13,Sainfoin
+Leguminous Crops,LG14,Clover
+Leguminous Crops,LG15,Mixed Crops–Group 1 Leguminous
+Leguminous Crops,LG16,Mixed Crops–Group 2 Leguminous
+Leguminous Crops,LG20,Winter Field beans
+Leguminous Crops,LG21,Winter Peas
+Energy Crop,SR01,Short Rotation Coppice
+Grassland,FA01,Fallow Land
+Grassland,HE02,Heathland and Bracken
+Grassland,HEAT,Heather
+Grassland,PG01,Grass
+Non–Agricultural Land,NA01,Non-vegetated or sparsely-vegetated Land
+Water,WA00,Water
+Trees,TC01,Perennial Crops and Isolated Trees
+Trees,NU01,Nursery Crops
+Trees,WO12,"Trees and Scrubs, short Woody plants, hedgerows"
+Unknown Vegetation Or Mixed Vegetation,AC00,Unknown or Mixed Vegetation

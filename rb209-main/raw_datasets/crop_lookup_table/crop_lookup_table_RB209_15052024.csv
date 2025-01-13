@@ -1,0 +1,48 @@
+﻿Crop Type Name,Crop Type ID,Crop Group ID,LUCODE,CROME Crop Name,sowing_month,sowing_day,sowing_year
+Spring Barley,3,0,AC01,Spring Barley,3,1,current year
+Spring Oats,5,0,AC19,Spring Oats,3,1,current year
+Spring Rye,7,0,AC24,Spring Rye,3,1,current year
+Spring Triticale,9,0,AC30,Spring Triticale,3,1,current year
+Spring Wheat,2,0,AC32,Spring Wheat,3,1,current year
+Winter Barley,1,0,AC63,Winter Barley,10,1,previous year
+Winter Oats,4,0,AC65,Winter Oats,10,1,previous year
+Winter Rye,6,0,AC68,Winter Rye,10,1,previous year
+Winter Triticale,8,0,AC69,Winter Triticale,10,1,previous year
+Winter Wheat,9,0,AC66,Winter Wheat,10,1,previous year
+Beetroot,90,4,,,,,
+Parsnips,91,4,AC23,Parsnips,4,1,current year
+Turnips,93,4,AC35,Tunrnip,4,1,current year
+Carrots,94,4,AC07,Carrot,4,1,current year
+Swede,92,4,,,,,
+Asparagus,60,3,,,,,
+Baby Leaf Lettuce,77,3,,,,,
+Broad Beans,66,3,,,,,
+Brussel Sprouts,61,3,,,,,
+Bulb Onions,73,3,AC20,Onions,4,1,current year
+Cabbage,62,3,AC34,Spring Cabbage,4,1,current year
+Calabrese,64,3,,,,,
+Cauliflower,63,3,,,,,
+Celery Self-blanching,65,3,,,,,
+Courgettes,72,3,,,,,
+Dwarf Beans,67,3,,,,,
+Leeks,75,3,,,,,
+Lettuce,69,3,AC15,Lettuce,3,1,current year
+Market Pick Peas,181,3,,,,,
+Radish,70,3,AC41,Radish,3,1,current year
+Runner Beans,68,3,,,,,
+Salad Onions,74,3,,,,,
+Sweetcorn,71,3,,,,,
+Wild Rocket,78,3,,,,,
+Potato Variety Group 1,160,7,AC44,Potato,3,1,current year
+Potato Variety Group 2,161,7,,,,,
+Potato Variety Group 3,162,7,,,,,
+Potato Variety Group 4,163,7,,,,,
+Linseed,22,1,AC16,Spring Linseed,9,1,previous year
+Linseed,22,1,AC64,Winter Linseed,9,1,previous year
+Peas,23,1,LG07,Spring Peas,3,1,current year
+Spring Beans,25,1,LG03,Spring Field Beans,3,1,current year
+Spring Oilseed Rape,21,1,AC36,Spring Oilseed,2,1,current year
+Sugar Beet,26,1,AC03,Beet,3,1,current year
+Uncropped or Fallow,28,1,FA01,Fallow Land,,,
+Winter Beans,24,1,LG20,Winter Field Beans,10,1,previous year
+Winter Oilseed Rape,20,1,AC67,Winter Oilseed,9,1,previous year
